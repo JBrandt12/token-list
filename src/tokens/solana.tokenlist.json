@@ -70384,6 +70384,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ek4DviTpz5HUUTkkh7uhQtENk8aTNwgaEPnEQTR5Pp8M",
+      "symbol": "JWB",
+      "name": "Brandtica",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JBrandt12/cryptoLogo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
